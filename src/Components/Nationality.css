@@ -1,0 +1,23 @@
+.container{
+
+    padding-top:0em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
+
+#output{
+    display: none;
+}
+
+#input{
+    padding:1em;
+    width:55%;
+    border-radius: 10%;
+}
+
+#pic{
+    width:10%;
+    margin:2em;
+}
